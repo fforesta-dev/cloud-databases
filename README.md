@@ -9,7 +9,7 @@ The application provides a simple command-line menu that lets a user create acco
 My purpose for writing this software was to practice building a real program that integrates with a cloud database, including secure credential handling, queries, and clean modular code organization.
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/h_fRlOW_Ld4)
 
 # Cloud Database
 
